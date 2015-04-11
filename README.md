@@ -1,10 +1,6 @@
 # git-testeos
 git-testeos
 
-*** NOTA IMPORTANTE aparece el usuario y password de github configurado en maven-scm-plugin.
-
-- Funciona correctamente (11/04/2015)
-
 $ git push origin master 
   Subimos los cambios 
 
